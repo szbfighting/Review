@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<litepal>
+    <dbname value = "demo2"/>
+
+    <version value = "3"/>
+
+    <list>
+        <mapping class = "com.song.reviewlitepal.litepal.Songs"/>
+        <mapping class = "com.song.reviewlitepal.litepal.Comment"/>
+        <mapping class="com.song.reviewlitepal.litepal.Introduction"/>
+        <mapping class="com.song.reviewlitepal.litepal.Category"/>
+    </list>
+</litepal>
